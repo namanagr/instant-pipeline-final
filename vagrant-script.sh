@@ -4,9 +4,6 @@ touch /home/vagrant/.bash_profile
 echo 'alias docker="sudo docker"' > /home/vagrant/.bash_profile
 echo 'alias docker-compose="sudo docker-compose"' >> /home/vagrant/.bash_profile
 
-mkdir pipeline-project # Create the project folder that contains all the applications.
-cp -R /vagrant/instant-pipeline/gogs /home/vagrant/pipeline-project/
-
 sudo mkdir -p /var/log/gogs
 sudo chown vagrant /var/log/gogs
 sudo chgrp vagrant /var/log/gogs

@@ -1,6 +1,6 @@
 [program:gogs]
-directory=/home/vagrant/pipeline-project/gogs
-command=/home/vagrant/pipeline-project/gogs/gogs web
+directory=/home/vagrant/instant-pipeline/gogs
+command=/home/vagrant/instant-pipeline/gogs/gogs web
 autostart=true
 autorestart=true
 startsecs=10
@@ -13,4 +13,4 @@ stderr_logfile_maxbytes=1MB
 stderr_logfile_backups=10
 stderr_capture_maxbytes=1MB
 user = vagrant
-environment = HOME="/home/vagrant/pipeline-project", USER="vagrant"
+environment = HOME="/home/vagrant/instant-pipeline", USER="vagrant"
