@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-"/home/vagrant/pipeline-project/gogs/gogs" hook --config='/home/vagrant/pipeline-project/gogs/custom/conf/app.ini' pre-receive
+"/home/vagrant/instant-pipeline/gogs/gogs" hook --config='/home/vagrant/instant-pipeline/gogs/custom/conf/app.ini' pre-receive
