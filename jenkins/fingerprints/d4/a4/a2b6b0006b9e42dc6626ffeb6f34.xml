@@ -6,14 +6,14 @@
   <usages/>
   <facets>
     <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@2.1.14">
-      <timestamp>1497908795008</timestamp>
-      <itemFullName>demo-flask-job</itemFullName>
-      <timestamp0>1497908795008</timestamp0>
-    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
-    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@2.1.14">
       <timestamp>1497909027488</timestamp>
       <itemFullName>local-project-job</itemFullName>
       <timestamp0>1497909027488</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@2.1.14">
+      <timestamp>1497910976888</timestamp>
+      <itemFullName>demo-flask-job</itemFullName>
+      <timestamp0>1497908795008</timestamp0>
     </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
   </facets>
 </fingerprint>
